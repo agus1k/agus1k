@@ -1,5 +1,4 @@
 ## Hi, I'm Agustin Miranda 👋
-![Banner](Banner.png)
 <p align="center">
 <a href="https://www.linkedin.com/in/agustinmiranda16/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
 </p>
