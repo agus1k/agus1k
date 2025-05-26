@@ -1,9 +1,7 @@
 ## Hi, I'm Agustin Miranda 👋
-<p align="center">
-<a href="https://www.linkedin.com/in/agustinmiranda16/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
-</p>
 
 ### I’m a student passionate about programming and constantly learning. I love solving problems through code, using various technologies to find efficient and creative solutions.
+<a href="https://www.linkedin.com/in/agustinmiranda16/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
 
 ## Skills
 
